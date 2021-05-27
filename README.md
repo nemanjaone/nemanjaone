@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemanjaone
-- 👀 I’m interested in software development and machine learning.
-- 🌱 I’m currently learning python, html, css, and javascript!
+- 👀 I’m interested in full stack software development.
+- 🌱 I’m currently learning mainly HTML/CSS/JS and python.
 - 💞️ I’m looking to collaborate on any SWE project that I can learn from.
 - 📫 How to reach me: zzirNemus@gmail.com
 
