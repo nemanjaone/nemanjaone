@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nemanjaone
 - 👀 I’m an Electronics Controls Engineer that is interested in Software Engineering and Web Development.
-- 🌱 I’m currently learning Vue.js, and plan to learn React.
-- 💞️ I’m currently working on my portfolio!
+- 🌱 I’m currently learning - Front End: Vue.js, and plan to learn React. Back End: MongoDB, Express.js, Node.js. 
+- 💞️ I’m currently working on my portfolio! 
 - 📫 How to reach me: zzirNemus@gmail.com
 
 <!---
