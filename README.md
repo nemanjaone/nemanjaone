@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nemanjaone
 - 👀 I’m an Electronics Controls Engineer who is interested in Web Development.
 - 🌱 I’m currently learning - Front End: Vue.js, and plan to learn React. Back End: MongoDB, Express.js, Node.js. 
-- 💞️ I’m currently working on my portfolio! 
+- 💞️ See my webdev portfolio at nembla.herokuapp.com !
 - 📫 How to reach me: nembla@proton.me
 
 <!---
